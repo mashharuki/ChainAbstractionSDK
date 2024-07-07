@@ -1,0 +1,13 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "convert2pdf":"npx @marp-team/marp-cli@latest RoadMap.md -o RoadMap.pdf"
+  },
+  "dependencies": {
+    "@marp-team/marpit": "^3.0.0"
+  }
+}
