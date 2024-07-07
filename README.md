@@ -13,3 +13,17 @@ This is a ChainAbstractionSDK project repo on ZetaChain
 ## Overview
 
 <img src="./pkgs/docs/img/overview.png" />
+
+## Update points
+
+- Wave1
+
+  I formulated ideas and concepts.
+
+- Wave2
+
+  I will create base SmartContract project & Next.js.
+
+- Wave3
+
+  I will integrate INTMAX Wallet SDK with next.js.
